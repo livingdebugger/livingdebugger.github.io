@@ -3,7 +3,7 @@ layout: page
 title: Welcome to L&D!
 ---
 
-The Living Debugger is as blog wrtitten by two wannabe programmers with very limited english skill. Enjoy!
+The Living Debugger is as blog written by two wannabe programmers with very limited english skills. Enjoy!
 
 ### Getting Started
 
