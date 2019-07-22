@@ -7,7 +7,7 @@ The Living Debugger is as blog written by two wannabe programmers with very limi
 
 ### Getting Started
 
-If you have many time to spend and don't know where, you found the right place. Are you lost? [Start here!]({{ site.github.url }}{% post_url 2015-10-10-getting-started %})
+If you have many time and don't know where to spend, you found the right place. Are you lost? [Start here!]({{ site.github.url }}{% post_url 2015-10-10-getting-started %})
 
 ### Questions?
 
