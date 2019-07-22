@@ -3,7 +3,7 @@ layout: page
 title: Welcome to The Living Debugger!
 ---
 
-The Living Debugger is a blog that discusses about our experience in programming and our training our english write
+The Living Debugger is as blog wrtitten by two wannabe programmers with very limited english skill. Enjoy!
 
 ### Getting Started
 
