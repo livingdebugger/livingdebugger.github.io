@@ -11,5 +11,5 @@ If you have many time to spend and don't know where, you found the right place. 
 
 ### Questions?
 
-If you have any questions please mail us: livingdebugger@protonmail.com
+If you have any question or found anything written incorrectly please mail us: livingdebugger@protonmail.com
 
