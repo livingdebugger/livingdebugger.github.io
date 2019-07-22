@@ -11,13 +11,13 @@ image: forest.jpg
 
 This blog is a little bit of our life in Computer Science graduation. Also we create this blog for training our english skills.
 
-## Notable features
+## For people who are looking for
 
-* Bug Hunter.
+* Bugs.
 
 * Computer Science.
 
-* English Skills.
+* Learning to do it wrong.
 
 * [Google Analytics](https://www.google.com/analytics/) support.
 
