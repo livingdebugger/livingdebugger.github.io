@@ -1,18 +1,16 @@
 ---
 layout: page
-title: Welcome to The Living Debugger
+title: Welcome to L&D!
 ---
 
 The Living Debugger is as blog wrtitten by two wannabe programmers with very limited english skill. Enjoy!
 
 ### Getting Started
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
-
-### Example Content
-
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
+If you have many time to spend and don't know where, you found the right place.
+[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with our content. Are you lost? Start here!
 
 ### Questions?
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+If you have any questions please mail us: livingdebugger@protonmail.com
+
