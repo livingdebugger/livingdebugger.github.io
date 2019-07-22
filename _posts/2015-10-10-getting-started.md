@@ -4,7 +4,7 @@ title: "Getting Started"
 author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
-image: forest.jpg
+image: code.jpg
 ---
 
 # What is this blog for?
@@ -17,7 +17,7 @@ This blog is a little bit of our life in Computer Science graduation. Also we cr
 
 * Computer Science.
 
-* Learning to do it wrong.
+* Learning to do I.T. wrong.
 
 * [Google Analytics](https://www.google.com/analytics/) support.
 
