@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Welcome to Lagrange!"
+title: "Welcome to Living Debugger!"
 author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
 image: mountains.jpg
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+The Living Debugger is as blog written by two wannabe programmers with very limited english skills. Enjoy!
 
 ## Getting Started
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+If you have many time and don't know where to spend, you found the right place. Are you lost? [Start here!]({{ site.github.url }}{% post_url 2015-10-10-getting-started %})
 
 ## Example Content
 
@@ -19,7 +19,7 @@ Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a
 
 ## Questions?
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+If you have any question or found anything written incorrectly please mail us: livingdebugger@protonmail.com
 
 ## More Jekyll!
 
