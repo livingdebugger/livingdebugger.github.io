@@ -12,8 +12,11 @@ The Living Debugger is a blog written by two wannabe programmers with very limit
 ## Getting Started
 
 <code>
-If you have many time and don't know where to spend, you found the right place. Are you lost? [Start here!]({{ site.github.url }}{% post_url 2015-10-10-getting-started %})
+if you have many time and don't know where to spend:
+    print("you found the right place!"). 
 </code>
+
+Are you lost? [Start here!]({{ site.github.url }}{% post_url 2015-10-10-getting-started %})
 
 ## Example Content
 
