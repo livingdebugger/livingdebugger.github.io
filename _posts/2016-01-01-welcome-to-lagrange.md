@@ -14,7 +14,7 @@ The Living Debugger is a blog written by two wannabe programmers with very limit
 <code>
 if you have many time and don't know where to spend:
 </code>
-    <br/><p><code>print("you found the right place!")</code></p>
+    <br/><pre><code>print("you found the right place!")</code></pre>
 
 
 Are you lost? [Start here!]({{ site.github.url }}{% post_url 2015-10-10-getting-started %})
