@@ -1,17 +1,19 @@
 ---
 layout: post
-title: "Welcome to Living Debugger!"
-author: "Paul Le"
+title: "Welcome to The Living Debugger!"
+author: "L&D Ltd."
 categories: journal
 tags: [documentation,sample]
 image: mountains.jpg
 ---
 
-The Living Debugger is as blog written by two wannabe programmers with very limited english skills. Enjoy!
+The Living Debugger is a blog written by two wannabe programmers with very limited english skills. Enjoy!
 
 ## Getting Started
 
+<code>
 If you have many time and don't know where to spend, you found the right place. Are you lost? [Start here!]({{ site.github.url }}{% post_url 2015-10-10-getting-started %})
+</code>
 
 ## Example Content
 
