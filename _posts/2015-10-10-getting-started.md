@@ -9,7 +9,7 @@ image: code.jpg
 
 # What is this blog for?
 
-This blog is a little bit of our life in Computer Science graduation. Also we create this blog for training our english skills.
+This blog is a little bit of our life in Computer Science graduation. Also we've created this blog for training our english skills.
 
 ## For people who are looking for
 
